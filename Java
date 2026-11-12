@@ -1,0 +1,26 @@
+# Java – Personal Interest
+
+Java is one of my programming hobbies.
+I enjoy learning Java and exploring how programming concepts work. I started learning it out of curiosity and to improve my logical thinking and problem-solving abilities.
+
+## What I Explore
+
+- Java Fundamentals
+- Variables and Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Arrays
+- Methods
+- Object-Oriented Programming
+- Classes and Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
+
+## Personal Goals
+I want to explore Java more deeply, build small applications and improve my programming skills.
+I believe programming is not just a career skill but also a way to explore new ideas and solve interesting problems.
+**Author:** Swarajit Padghan
+**Interest:** Java Programming
